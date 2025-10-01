@@ -1,0 +1,39 @@
+body,html{ 
+    margin: 0;
+    padding: 0;
+}
+
+
+#imienazwisko{ 
+width: 2000px;
+height: 100px;
+background-color: rgb(190, 164, 177);
+text-align: center;
+padding-top: 20px;
+}
+#imienazwisko h1{ 
+    margin: 0;
+
+}
+#side{ 
+    width: 200px;
+    height: 700px;
+    background-color: rgb(59, 49, 49);
+}
+
+#dol{
+    
+    width: 2000px;
+    height: 110px;
+    background-color: rgb(165, 192, 196) 
+}
+#art{ 
+float: right;
+    width: 1720px;
+    height: 700px;
+    background-color: blue;
+  
+}
+
+    
+
